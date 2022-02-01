@@ -1,0 +1,12 @@
+.card-img-top {
+    background-color: lightgray;
+    border-radius: 50%;
+}
+
+.btn-primary {
+border-radius: 50%;
+width: 10px;
+height: 20px;
+background-color: transparent;
+border-color: black;
+}
